@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="halfMargin">8dp</dimen>
+    <dimen name="standardMargin">18dp</dimen>
+    <dimen name="titleTextSize">15sp</dimen>
+    <dimen name="smallTextSize">13sp</dimen>
+    <dimen name="imageCoverHeight">180dp</dimen>
+    <dimen name="standardPadding">15dp</dimen>
+    <dimen name="cardCornerRadiusValue">12dp</dimen>
+    <dimen name="cardCornerRadiusValueVideoPlayer">12dp</dimen>
+</resources>
